@@ -1,5 +1,6 @@
 ## Contents
 
+`Intended format in .pdf, here is a .md version nonetheless`
 
 ## Executive Summary
 
